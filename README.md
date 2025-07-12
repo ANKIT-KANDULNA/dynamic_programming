@@ -1,7 +1,7 @@
 # Ultimate Dynamic Programming Sheet:
   This sheet will be topic wise with increasing difficulty.
 
-## Basic DP Questions to know how recursion works:
+## DP Questions to know how recursion works:
   https://leetcode.com/problems/fibonacci-number/description/
 
   https://leetcode.com/problems/climbing-stairs/description/
@@ -11,6 +11,14 @@
   https://leetcode.com/problems/pascals-triangle/description/
 
   https://leetcode.com/problems/pascals-triangle-ii/
+
+  https://leetcode.com/problems/jump-game/description/
+
+  https://leetcode.com/problems/jump-game-ii/description/
+
+  https://leetcode.com/problems/house-robber/description/
+
+  https://leetcode.com/problems/house-robber-ii/description/
   
   
 ## Knapsack Based:
@@ -33,6 +41,7 @@
 
   https://leetcode.com/problems/integer-break/description/
 
+  https://leetcode.com/problems/pizza-with-3n-slices/description/
   
 
 ## LCS Based:
@@ -55,6 +64,8 @@
   https://www.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1
   
   https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/
+
+  https://leetcode.com/problems/edit-distance/description/
   
   https://leetcode.com/problems/shortest-common-supersequence/description/
   
