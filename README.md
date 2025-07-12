@@ -1,6 +1,39 @@
 # Ultimate Dynamic Programming Sheet:
   This sheet will be topic wise with increasing difficulty.
+
+## Basic DP Questions to know how recursion works:
+  https://leetcode.com/problems/fibonacci-number/description/
+
+  https://leetcode.com/problems/climbing-stairs/description/
+  
+  https://leetcode.com/problems/min-cost-climbing-stairs/description/
+
+  https://leetcode.com/problems/pascals-triangle/description/
+
+  https://leetcode.com/problems/pascals-triangle-ii/
+  
+  
 ## Knapsack Based:
+  https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
+
+  https://leetcode.com/problems/target-sum/description/
+
+  https://leetcode.com/problems/partition-equal-subset-sum/description/
+
+  https://leetcode.com/problems/last-stone-weight-ii/description/
+
+  https://leetcode.com/problems/coin-change-ii/description/
+
+## Unbounded Knapsack:
+  https://leetcode.com/problems/coin-change/description/
+
+  https://leetcode.com/problems/perfect-squares/description/
+
+  https://leetcode.com/problems/minimum-cost-for-tickets/description/
+
+  https://leetcode.com/problems/integer-break/description/
+
+  
 
 ## LCS Based:
   https://leetcode.com/problems/longest-common-subsequence/description/  
