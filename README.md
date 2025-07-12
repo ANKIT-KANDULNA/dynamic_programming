@@ -77,8 +77,12 @@
   https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/
 
   https://leetcode.com/problems/edit-distance/description/
+
+  https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1
   
   https://leetcode.com/problems/shortest-common-supersequence/description/
+
+  https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
   
   https://leetcode.com/problems/interleaving-string/description/
   
