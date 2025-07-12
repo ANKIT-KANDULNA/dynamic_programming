@@ -18,8 +18,6 @@
 
   https://leetcode.com/problems/house-robber/description/
 
-  https://leetcode.com/problems/house-robber-ii/description/
-  
   
 ## Knapsack Based:
   https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
@@ -29,17 +27,30 @@
   https://leetcode.com/problems/partition-equal-subset-sum/description/
 
   https://leetcode.com/problems/last-stone-weight-ii/description/
+  
+  https://leetcode.com/problems/house-robber-ii/description/
 
+  https://leetcode.com/problems/coin-change/description/
+  
   https://leetcode.com/problems/coin-change-ii/description/
 
-## Unbounded Knapsack:
-  https://leetcode.com/problems/coin-change/description/
+  https://leetcode.com/problems/ones-and-zeroes/description/
+
+  https://leetcode.com/problems/shopping-offers/description/
+
+  https://leetcode.com/problems/2-keys-keyboard/description/
 
   https://leetcode.com/problems/perfect-squares/description/
 
   https://leetcode.com/problems/minimum-cost-for-tickets/description/
 
   https://leetcode.com/problems/integer-break/description/
+
+  https://leetcode.com/problems/tallest-billboard/description/
+
+  https://leetcode.com/problems/profitable-schemes/description/
+
+  https://leetcode.com/problems/reducing-dishes/description/
 
   https://leetcode.com/problems/pizza-with-3n-slices/description/
   
