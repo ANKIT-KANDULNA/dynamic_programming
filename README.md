@@ -87,3 +87,6 @@
   https://leetcode.com/problems/interleaving-string/description/
   
   https://leetcode.com/problems/distinct-subsequences/description/
+
+## Matrix Chain Multilication Based:
+  
