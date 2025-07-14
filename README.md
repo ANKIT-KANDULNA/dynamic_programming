@@ -89,4 +89,5 @@
   https://leetcode.com/problems/distinct-subsequences/description/
 
 ## Matrix Chain Multilication Based:
+  https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1
   
