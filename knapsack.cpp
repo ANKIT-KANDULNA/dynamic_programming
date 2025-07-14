@@ -5,6 +5,8 @@ int MOD=1e9+7;
 // recursion
 int helperR(vector<int> &wt,vector<int> &val,int W,int i){
     //base condition: --> think of the smallest valid input
+    //                --> think of invalid input 
+    
     // W=0 kg , size of array(n)=0
     int n=wt.size();
     if(i>=n || W==0){ // i can also take n as index; i=n and i-- and check n==0
