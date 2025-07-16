@@ -90,4 +90,10 @@
 
 ## Matrix Chain Multilication Based:
   https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1
-  
+
+  https://leetcode.com/problems/palindrome-partitioning/description/
+
+  https://leetcode.com/problems/palindrome-partitioning-ii/description/
+
+  https://leetcode.com/problems/palindrome-partitioning-iv/description/
+
